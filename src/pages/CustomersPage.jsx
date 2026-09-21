@@ -24,7 +24,7 @@ function CustomersPage() {
   return (
     <div>
       <div className="page-header">
-        <h1>Customers</h1>
+        <h1>Customer Directory</h1>
         <Link to="/app/customers/new" className="btn-primary-link">
           Add Customer
         </Link>
